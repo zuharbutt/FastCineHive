@@ -1,0 +1,48 @@
+Snack Selection Summary:
+Popcorn: 0 @ Rs. 499 each
+Nachos: 1 @ Rs. 699 each
+Soda: 0 @ Rs. 299 each
+------------------------
+Snacks bill: 699
+Snack Selection Summary:
+Popcorn: 1 @ Rs. 499 each
+Nachos: 1 @ Rs. 699 each
+Soda: 1 @ Rs. 299 each
+------------------------
+Snacks bill: 1497
+Snack Selection Summary:
+Popcorn: 0 @ Rs. 499 each
+Nachos: 3 @ Rs. 699 each
+Soda: 1 @ Rs. 299 each
+------------------------
+Snacks bill: 2396
+Snack Selection Summary:
+Popcorn: 4 @ Rs. 499 each
+Nachos: 0 @ Rs. 699 each
+Soda: 0 @ Rs. 299 each
+------------------------
+Snacks bill: 1996
+Snack Selection Summary:
+Popcorn: 1 @ Rs. 499 each
+Nachos: 1 @ Rs. 699 each
+Soda: 2 @ Rs. 299 each
+------------------------
+Snacks bill: 1796
+Snack Selection Summary:
+Popcorn: 2 @ Rs. 499 each
+Nachos: 3 @ Rs. 699 each
+Soda: 1 @ Rs. 299 each
+------------------------
+Snacks bill: 3394
+Snack Selection Summary:
+Popcorn: 0 @ Rs. 499 each
+Nachos: 1 @ Rs. 699 each
+Soda: 1 @ Rs. 299 each
+------------------------
+Snacks bill: 998
+Snack Selection Summary:
+Popcorn: 0 @ Rs. 499 each
+Nachos: 0 @ Rs. 699 each
+Soda: 3 @ Rs. 299 each
+------------------------
+Snacks bill: 897

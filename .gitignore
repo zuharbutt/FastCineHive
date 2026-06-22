@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries (ignored by default)
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries (ignored by default)
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables (ignored by default)
+*.exe
+*.out
+*.app
+
+# Allow checking in specific required dependency libraries and DLLs
+!EXTERNAL/**/*.lib
+!SFML_PRACTICE/*.dll
+
+# Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+build/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+*.opensdf
+*.sdf
+*.db
+*.ipch
+
+# Temporary files
+*.tmp
+*.log
+*~
+~*

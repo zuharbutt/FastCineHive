@@ -1,0 +1,24 @@
+Total Bill is : 10699
+Payment received is : 22222
+Change returned is : 11523
+<------------------------------------>
+Total Bill is : 16497
+Payment received is : 22222
+Change returned is : 5725
+<------------------------------------>
+Total Bill is : 7396
+Payment received is : 9999
+Change returned is : 2603
+<------------------------------------>
+Total Bill is : 6796
+Payment received is : 555555
+Change returned is : 548759
+<------------------------------------>
+Total Bill is : 10894
+Payment received is : 120000
+Change returned is : 109106
+<------------------------------------>
+Total Bill is : 15998
+Payment received is : 1410065408
+Change returned is : 1410049410
+<------------------------------------>
