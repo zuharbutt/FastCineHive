@@ -79,35 +79,41 @@ FastCineHive/
 
 ### Welcome Screen
 
-<img width="1440" height="846" alt="image" src="https://github.com/user-attachments/assets/44e24b15-d0e8-480b-a233-6203e7205c2f" />
+<img width="1450" height="789" alt="image" src="https://github.com/user-attachments/assets/26fb1ea4-ef8c-4e50-8eb5-18e375c697be" />
+
 
 ### Genre Screen
 
-<img width="1496" height="752" alt="image" src="https://github.com/user-attachments/assets/4c12c21e-c4d2-4e5a-a24a-854ed86b7922" />
+<img width="1476" height="754" alt="image" src="https://github.com/user-attachments/assets/49f1b33d-98cb-4c44-86b4-6144b75c8595" />
+
 
 ### Films Screens
 
-<img width="1456" height="918" alt="image" src="https://github.com/user-attachments/assets/969da72a-1b3f-4f19-8a31-f8fad18eb990" />
+<img width="1445" height="872" alt="image" src="https://github.com/user-attachments/assets/37bc0a8d-ec3f-40ff-9d74-ada08e393605" />
 
-<img width="1885" height="932" alt="image" src="https://github.com/user-attachments/assets/b871cd3c-fef0-41d1-b14f-08e5982f9abe" />
 
-<img width="1459" height="886" alt="image" src="https://github.com/user-attachments/assets/0da0c695-450c-4821-9df6-e7b676a0df3b" />
+<img width="1431" height="902" alt="image" src="https://github.com/user-attachments/assets/ec408088-6ff4-4f48-9fd5-95f1a2f0497c" />
+
+
+<img width="1459" height="880" alt="image" src="https://github.com/user-attachments/assets/f31b92b1-6ee6-4493-80f6-86bbb76898b2" />
+
 
 ### Showtime Screen
 
-<img width="1472" height="758" alt="image" src="https://github.com/user-attachments/assets/3476c0b4-6638-40bf-ad63-54754ebeff6c" />
+<img width="1350" height="771" alt="image" src="https://github.com/user-attachments/assets/5c42d63a-aef4-4b18-af05-2c0735cfff65" />
 
 ### Seats Screen (the selected seat becomes white)
 
-<img width="1086" height="784" alt="image" src="https://github.com/user-attachments/assets/974d19d0-faa6-40b9-bb30-192ff988661c" />
+<img width="1271" height="868" alt="image" src="https://github.com/user-attachments/assets/d1a92607-5ed5-4622-bcf5-b4a3c7f4ce4c" />
 
 ### Snacks Screen
 
-<img width="1466" height="849" alt="image" src="https://github.com/user-attachments/assets/ebedfdc7-e532-4d57-b093-af47ea67c2ce" />
+<img width="1462" height="790" alt="image" src="https://github.com/user-attachments/assets/e870f506-e784-4b10-a253-8382343a5e0e" />
 
 ### The Reciept Generated Screen
 
-<img width="795" height="840" alt="image" src="https://github.com/user-attachments/assets/fe1cfdaa-968f-425a-bc54-71ca5c6d1047" />
+<img width="814" height="818" alt="image" src="https://github.com/user-attachments/assets/ef60929f-f0f8-4a36-9460-76f083ca8846" />
+
 
 
 
